@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: freostudio-fibo
+Version: 0.0.1
+Summary: freso-studio，test packaging fibo
+Home-page: https://github.com/freostudio/fibo
+Author: freostudio
+Author-email: 1600690028@qq.com
+Maintainer: freostudio
+Maintainer-email: 1600690028@qq.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
